@@ -1,1 +1,39 @@
-# RickAndMortyTask
+# Рик и Морти
+### Ваня на просторах интернета нашел мультсериал "Рик и Морти". И ему так понравились персонажи, локации, серии, и всего было так много, что он захотел себе небольшую энциклопедию по ним. Этакий бестиарий, в котором он бы мог найти всю интересующую его информацию.
+### На основе [RickAndMortyApi](https://rickandmortyapi.com) сделайте программу, которая будет выполнять следующие команды:
+
+> characters list - выводит список имён всех персонажей
+
+> character <name> - выводит информацию о персонаже (Вид, Гендер, Статус)
+
+> locations list - выводит список названий всех локаций в сериале
+
+> location <name> - выводит информацию о локации (Тип, Измерение, Жители(список))
+
+> episodes list - выводит список названий всех серий
+
+> episode <name> - выводит информацию о серии (Дата выхода, Эпизод, Персонажи(список))
+
+### Пример входных данных:
+
+> character Slaveowner
+
+
+### Пример выходных данных:
+
+> Human
+Male
+Dead
+
+### Пример входных данных:
+
+> episode Rickmancing the Stone
+
+
+### Пример выходных данных:
+
+> July 30, 2017
+
+> S03E02
+
+> ['Rick Sanchez', 'Morty Smith', 'Summer Smith', 'Beth Smith', 'Jerry Smith', 'Armothy', 'Blue Footprint Guy', 'Colossus', 'Eli', "Eli's Girlfriend", 'Genital Washer', 'Hemorrhage', 'Mechanical Morty', 'Mechanical Rick', 'Mechanical Summer', 'Mohawk Guy', 'Slaveowner', 'Taint Washer']
