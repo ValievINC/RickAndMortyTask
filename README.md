@@ -37,3 +37,5 @@ Dead
 > S03E02
 
 > ['Rick Sanchez', 'Morty Smith', 'Summer Smith', 'Beth Smith', 'Jerry Smith', 'Armothy', 'Blue Footprint Guy', 'Colossus', 'Eli', "Eli's Girlfriend", 'Genital Washer', 'Hemorrhage', 'Mechanical Morty', 'Mechanical Rick', 'Mechanical Summer', 'Mohawk Guy', 'Slaveowner', 'Taint Washer']
+
+### Примечание: в решении вам помогут библиотеки [requests](https://requests.readthedocs.io/en/latest/), [json](https://docs.python.org/3/library/json.html). Для тестирования своей программы можете воспользоваться набором тестов из [tests.txt](https://github.com/ValievINC/RickAndMortyTask/blob/main/tests.txt)
